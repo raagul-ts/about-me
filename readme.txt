@@ -7,3 +7,5 @@ unity3d
 blender
 c#
 cross platform app development
+
+youtube: https://www.youtube.com/channel/UCFwC_AicTroRY1Ge6fWjqwQ
